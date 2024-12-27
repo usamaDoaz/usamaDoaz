@@ -9,16 +9,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - **Databases:** MongoDB, MySQL, PostgreSQL
 - **Tools & Platforms:** Git, Docker, GitHub Actions, Heroku, AWS
 
-## 🚀 Projects
-
-Here are a few projects I've worked on:
-
-### [Project Name](https://github.com/usamaDoaz/project-name)
-A brief description of the project, its purpose, and the technologies used.
-
-### [Another Project](https://github.com/usamaDoaz/another-project)
-A brief description of the project, its purpose, and the technologies used.
-
 ## 📈 GitHub Stats
 
 ![Usama's GitHub stats](https://github-readme-stats.vercel.app/api?username=usamaDoaz&show_icons=true&theme=radical)
